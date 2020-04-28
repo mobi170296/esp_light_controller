@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <osapi.h>
 #include <user_interface.h>
 
